@@ -5,29 +5,29 @@
 
 ### Table of Contents
 
-  * [Introduction to Cybersecurity](https://www.google.com/search?q=%23introduction-to-cybersecurity)
-  * [The CIA Triad: Core Objectives](https://www.google.com/search?q=%23the-cia-triad-core-objectives)
-  * [Key Elements of Cybersecurity](https://www.google.com/search?q=%23key-elements-of-cybersecurity)
-  * [Risk Management](https://www.google.com/search?q=%23risk-management)
-  * [Common Misconceptions](https://www.google.com/search?q=%23common-misconceptions)
-  * [Laws and Ethics](https://www.google.com/search?q=%23laws-and-ethics)
-  * [Threat Actor Groups](https://www.google.com/search?q=%23threat-actor-groups)
-  * [Types of Cyberattacks](https://www.google.com/search?q=%23types-of-cyberattacks)
-  * [The Structure of a Cyberattack](https://www.google.com/search?q=%23the-structure-of-a-cyberattack)
-  * [The Cybercrime Ecosystem](https://www.google.com/search?q=%23the-cybercrime-ecosystem)
-  * [Social Engineering](https://www.google.com/search?q=%23social-engineering)
-  * [Open-Source Intelligence](https://www.google.com/search?q=%23open-source-intelligence)
-  * [Technical Scanning](https://www.google.com/search?q=%23technical-scanning)
-  * [Case Studies](https://www.google.com/search?q=%23case-studies)
-  * [On the Defense](https://www.google.com/search?q=%23on-the-defense)
-  * [About This Course](https://www.google.com/search?q=%23about-this-course)
-  * [Financial Impacts](https://www.google.com/search?q=%23financial-impacts)
-  * [Security Strategy](https://www.google.com/search?q=%23security-strategy)
-  * [Prevent Attacks](https://www.google.com/search?q=%23prevent-attacks)
-  * [Detect Attacks](https://www.google.com/search?q=%23detect-attacks)
-  * [Respond to Attacks](https://www.google.com/search?q=%23respond-to-attacks)
-  * [Introducing Cryptography](https://www.google.com/search?q=%23introducing-cryptography)
-  * [Career Paths and Skills](https://www.google.com/search?q=%23career-paths-and-skills)
+- Introduction to Cybersecurity
+- The CIA Triad: Core Objectives
+- Key Elements of Cybersecurity
+- Risk Management
+- Common Misconceptions
+- Laws and Ethics
+- Threat Actor Groups
+- Types of Cyberattacks
+- The Structure of a Cyberattack
+- The Cybercrime Ecosystem
+- Social Engineering
+- Open-Source Intelligence
+- Technical Scanning
+- Case Studies
+- On the Defense
+- About This Course
+- Financial Impacts
+- Security Strategy
+- Prevent Attacks
+- Detect Attacks
+- Respond to Attacks
+- Introducing Cryptography
+- Career Paths and Skills
 
 -----
 
